@@ -11,10 +11,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Screenshots of the Project:
   
   1. 
-  ![Screenshot](ToDoList/screenshots/s1.png)
+  ![Screenshots](ToDoList/screenshots/s1.png)
   
   2. 
-  ![Screenshot](ToDoList/screenshots/s1.png)
+  ![Screenshots](ToDoList/screenshots/s1.png)
   
   3.
-  ![Screenshot](ToDoList/screenshots/s1.png)
+  ![Screenshots](ToDoList/screenshots/s1.png)
