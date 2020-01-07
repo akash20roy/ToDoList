@@ -14,7 +14,7 @@ Screenshots of the Project:
   ![Screenshot](ToDoList/screenshots/s1.png)
   
   2. 
-  ![Screenshot](ToDoList/screenshots/s2.png)
+  ![Screenshot](ToDoList/screenshots/s1.png)
   
   3.
-  ![Screenshot](ToDoList/screenshots/s3.png)
+  ![Screenshot](ToDoList/screenshots/s1.png)
